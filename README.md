@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Ramiro Rivera - Space Banner" width="100%">
+  <img src="./banner.png.png" alt="Ramiro Rivera - Space Banner" width="100%">
 </p>
 Hi there! I'm Ramiro 
 
