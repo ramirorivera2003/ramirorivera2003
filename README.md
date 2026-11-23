@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="banner.png" alt="Ramiro Rivera | Space Banner" width="100%">
+  <img src="banner.png" alt="Ramiro Rivera | Space Banner<img width="2170" height="725" alt="banner png" src="https://github.com/user-attachments/assets/713cf4fa-a237-4031-aa10-3c5e8cd03838" />
+" width="100%">
 </p>
 
 Hi there! I'm Ramiro 
