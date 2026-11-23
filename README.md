@@ -1,6 +1,6 @@
-#Hi there! I'm Ramiro 
+Hi there! I'm Ramiro 
 
-###Systems Engineering Student | Aspiring Software Engineer | AI & Computer Vision Enthusiast
+Systems Engineering Student | Aspiring Software Engineer | AI & Computer Vision Enthusiast
 
 I'm a Systems Engineering student based in Monterrey, Mexico, passionate about software development, artificial intelligence, computer vision, and embedded systems.
 
