@@ -4,8 +4,11 @@
 
 I'm a Systems Engineering student based in Monterrey, Mexico, passionate about software development, artificial intelligence, computer vision, and embedded systems.
 
-I enjoy building practical solutions that combine software and hardware to solve real-world problems.
+Currently, I'm expanding my knowledge of software engineering, exploring new technologies, and working on personal and academic projects.
 
+My long-term dream is to build a career doing what I love, create meaningful technology, and eventually settle down on a peaceful ranch, surrounded by nature, enjoying the freedom to work on my own terms.
+
+Building software, chasing dreams, and working toward a quieter life.
 ### Technologies & Tools
 
 <p align="left">
