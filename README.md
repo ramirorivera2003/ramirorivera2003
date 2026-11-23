@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner.png" alt="Ramiro Rivera | Space Banner" width="100%">
+</p>
+
 Hi there! I'm Ramiro 
 
 Systems Engineering Student | Aspiring Software Engineer | AI & Computer Vision Enthusiast
